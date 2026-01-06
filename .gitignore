@@ -1,0 +1,9 @@
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers temporaires d’éditeur
+*.swp
+*.swo
